@@ -34,5 +34,9 @@ The main purpose of this repository is to showcase and organize all the reposito
  * [Computermathematik](https://github.com/thob97/uni_fu_computer-mathematics.git)
  * [ProInformatikVII](https://github.com/thob97/uni_fu_ProInformatikVII.git)
  * [Proseminar Theoretische Informatik](https://github.com/thob97/uni_fu_proseminar-theoretische-informatik.git)
+ * Mafi 1: Logik und Diskrete Mathematik
+ * Mafi 2: Lineare Algebra für Informatik
+ * Mafi 3: Analysis für Informatik
+ * Auswirkungen der Informatik
 
 
